@@ -1,0 +1,1 @@
+gcloud beta emulators datastore start --data-dir ds --host-port localhost:9999
